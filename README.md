@@ -1,1 +1,1 @@
-# Little-Lemon-Capstone-Backend
+# Little-Lemon-Restaurant-Capstone-Backend
